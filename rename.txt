@@ -1,4 +1,0 @@
-hello everyone
-this is amazing
-currently studying
-learning python
