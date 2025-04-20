@@ -1,7 +1,0 @@
-GitHub is a cloud-based platform that enables developers to store, manage, and collaborate on code using Git, 
-a distributed version control system. 
-It offers features like repositories, branches, commits, and pull requests, 
-facilitating efficient version control and collaborative development. 
-Developers can track changes, review code, and contribute to projects from anywhere, 
-making it a central hub for open-source and private software development. 
-GitHub also integrates with various tools and services, enhancing the software development lifecycle. 
