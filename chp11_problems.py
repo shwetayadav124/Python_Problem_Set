@@ -1,4 +1,4 @@
-# create a class(2-D vector) and use it to create another class representing 3-D vector
+# 1) create a class(2-D vector) and use it to create another class representing 3-D vector
 
 '''class Vector2D:
     def __init__(self,i,j):
